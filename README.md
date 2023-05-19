@@ -9,4 +9,9 @@ gói cài đặt từ trang web chính thức và chạy tệp cài
 bao gồm Apache và MySQL.
 + Mở trình duyệt web và truy cập vào phpMyAdmin, 
 một công cụ quản lý cơ sở dữ liệu MySQL được 
-22
+22 tích hợp sẵn trong XAMPP. Để truy cập vào 
+phpMyAdmin, hãy mở trình duyệt web và nhập địa 
+chỉ http://localhost/phpmyadmin vào thanh địa chỉ.
++ Trong phpMyAdmin, chọn mục Import sau đó xuất 
+file hotel.sql và hotel.sqlite, đợi quá trình tải lên và 
+duyệt hoàn tất.
