@@ -15,3 +15,13 @@ chỉ http://localhost/phpmyadmin vào thanh địa chỉ.
 + Trong phpMyAdmin, chọn mục Import sau đó xuất 
 file hotel.sql và hotel.sqlite, đợi quá trình tải lên và 
 duyệt hoàn tất.
++ Trong mã nguồn của ứng dụng web của bạn, sử
+dụng các kết nối cơ sở dữ liệu để kết nối với cơ sở
+dữ liệu MySQL đã tạo trước đó. Có thể sử dụng 
+ngôn ngữ lập trình phía máy chủ (ở đây là Java) để
+thực hiện các truy vấn cơ sở dữ liệu và hiển thị dữ
+liệu trên trang web của.
+- Sau khi hoàn thành các bước này, có thể tạo và quản lý cơ
+sở dữ liệu của mình trong XAMPP và sử dụng các kết nối 
+cơ sở dữ liệu để truy xuất và hiển thị dữ liệu trên trang 
+web.
