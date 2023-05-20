@@ -24,4 +24,4 @@ liệu trên trang web của.
 - Sau khi hoàn thành các bước này, có thể tạo và quản lý cơ
 sở dữ liệu của mình trong XAMPP và sử dụng các kết nối 
 cơ sở dữ liệu để truy xuất và hiển thị dữ liệu trên trang 
-web.
+web.\
